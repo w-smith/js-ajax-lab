@@ -14,7 +14,7 @@ competencies: Front-end intro
 
 <!--Differentiate by fist-to-five -->
 
-> ***Note:*** _This will be a pair programming activity._
+> ***Note:*** _This will be a pair programming activity.  Select one computer to work on, and an initial driver and navigator._
 
 You're about to write a lot of AJAX-backed JavaScript – using jQuery – that will complete our little Cat Rescue app.
 
@@ -32,7 +32,9 @@ Make use of the fantastic and altruistic https://ga-cat-rescue.herokuapp.com/api
 
 You'll find the same starter code you had in the last lesson in the `starter-code` folder. It's a basic index and some styling, along with an empty `js/jquery.app.js`.
 
-> Note: If you are having trouble getting started, look back at your work on the [jQuery MadLib Lab](https://github.com/den-wdi-2/css-html-forms-lab).
+> Note: If you are having trouble getting started, look back at your work on the [jQuery MadLib Lab](https://github.com/den-materials/css-html-forms-lab).
+
+> Note: Remember what the `event.preventDefault();` line does?  If not, check it out on Google.  It is vital in this lab.
 
 #### Deliverable
 
