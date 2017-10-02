@@ -14,7 +14,7 @@ competencies: Front-end intro
 
 <!--Differentiate by fist-to-five -->
 
-> ***Note:*** _This will be a pair programming activity.  Select one computer to work on, and an initial driver and navigator._
+> ***Note:*** _Please lean on your neighbors throughout this process.  If you are seeing the same error for more than 15 minutes, that's a good time to ask your peers for help._
 
 You're about to write a lot of AJAX-backed JavaScript – using jQuery – that will complete our little Cat Rescue app.
 
