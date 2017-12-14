@@ -1,4 +1,4 @@
-<!---
+<!--
 title: Practicing AJAX
 type: Lab
 duration: "1:25"
@@ -6,19 +6,17 @@ creator:
     name: Micah Rich
     city: LA
 competencies: Front-end intro
---->
+-->
 
 # Practicing AJAX
 
 ## Introduction
 
-<!--Differentiate by fist-to-five -->
-
 > ***Note:*** _Please lean on your neighbors throughout this process.  If you are seeing the same error for more than 15 minutes, that's a good time to ask your peers for help._
 
-You're about to write a lot of AJAX-backed JavaScript – using jQuery – that will complete our little Cat Rescue app.
+You're about to write a lot of AJAX-backed JavaScript – using jQuery – that will complete our little book app.
 
-Make use of the fantastic and altruistic https://ga-cat-rescue.herokuapp.com/api/cats.  Your task is to use your JS skills to list out all the cats in our database and get our form working so we can add more.
+Make use of the fantastic and well-read https://super-crud.herokuapp.com/books.  Your task is to use your JS skills to list out all the books in our database and get our form working so we can add more.
 
 ## Exercise
 
@@ -30,7 +28,7 @@ Make use of the fantastic and altruistic https://ga-cat-rescue.herokuapp.com/api
 
 #### Starter Code
 
-You'll find the same starter code you had in the last lesson in the `starter-code` folder. It's a basic index and some styling, along with an empty `js/jquery.app.js`.
+You'll find the same starter code you had in the last lesson in the `starter-code` folder. It's a basic `index` and some styling, along with an empty `app.js`.
 
 > Note: If you are having trouble getting started, look back at your work on the [jQuery MadLib Lab](https://github.com/den-materials/css-html-forms-lab).
 
@@ -38,11 +36,11 @@ You'll find the same starter code you had in the last lesson in the `starter-cod
 
 #### Deliverable
 
-1. Make a list of existing cats appear underneath the form.
-2. Make the form work (i.e. it will add a cat, and you can verify the cat was added by refreshing).
-3. Get your app to add to the list of cats without refreshing the page, using the information from the newly created cat.
+1. Make a list of existing books appear underneath the form.
+2. Make the form work (i.e. it will add a book, and you can verify the book was added by refreshing).
+3. Get your app to add to the list of books without refreshing the page, using the information from the newly created book.
 
-<img width="752" src="assets/catRescueList.png">
+<img width="752" src="assets/bookList.png">
 
 ## Additional Resources
 
