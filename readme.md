@@ -47,4 +47,4 @@ You'll find the same starter code you had in the last lesson in the `starter-cod
 - [http://youmightnotneedjquery.com](http://youmightnotneedjquery.com/)
 - [jQuery AJAX Docs](http://api.jquery.com/jquery.ajax/)
 - [Some useful jQuery DOM Manipulation Docs](http://api.jquery.com/prepend/)
-- [The Official Cat API](https://ga-cat-rescue.herokuapp.com/api/cats)
+- [Super CRUD API](https://github.com/SF-WDI-LABS/super-crud-api)
