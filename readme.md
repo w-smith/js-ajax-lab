@@ -16,7 +16,7 @@ competencies: Front-end intro
 
 You're about to write a lot of AJAX-backed JavaScript – using jQuery – that will complete our little book app.
 
-Make use of the fantastic and well-read https://super-crud.herokuapp.com/books.  Your task is to use your JS skills to list out all the books in our database and get our form working so we can add more.
+Make use of the fantastic and well-read https://den-super-crud.herokuapp.com/books.  Your task is to use your JS skills to list out all the books in our database and get our form working so we can add more.
 
 ## Exercise
 
